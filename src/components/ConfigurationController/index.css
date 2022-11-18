@@ -1,0 +1,26 @@
+.bg-container {
+  background-color: #475569;
+  background-size: cover;
+  padding: 5px;
+  padding-left: 30px;
+}
+.layout-heading {
+  color: white;
+  font-family: roboto;
+}
+
+.label {
+  color: white;
+  font-family: roboto;
+}
+
+.ip-div {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
+.input {
+  height: 14px;
+  width: 14px;
+  margin-right: 7px;
+}
